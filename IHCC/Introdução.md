@@ -1,0 +1,1 @@
+O presente tem como objetivo demonstrar a instalação de sistemas operacionais, Linux e Windows respectivamente, e ferramentas inclusas nestes para o gerenciamento de usuários e permissões, conhecimentos úteis para a administração destes sistemas.

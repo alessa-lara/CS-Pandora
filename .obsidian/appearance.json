@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#95a6fe",
+  "cssTheme": "Typomagical",
+  "interfaceFontFamily": "Arial",
+  "textFontFamily": "Arial",
+  "baseFontSize": 16,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "showRibbon": true
+}
