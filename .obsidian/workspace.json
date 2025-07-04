@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "82bb5f69c02ea452",
+        "id": "f9f0a7fec58c0e0e",
         "type": "tabs",
+        "dimension": 54.69543147208121,
         "children": [
           {
-            "id": "8e41e9a641ea86fe",
+            "id": "abe6d3d25bc95629",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -24,11 +25,12 @@
         ]
       },
       {
-        "id": "f9f0a7fec58c0e0e",
+        "id": "351bd20141a39644",
         "type": "tabs",
+        "dimension": 45.30456852791878,
         "children": [
           {
-            "id": "abe6d3d25bc95629",
+            "id": "622186dd3645a125",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,7 +174,7 @@
             }
           },
           {
-            "id": "825045ca9fa70631",
+            "id": "7f9e5f622261c65b",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -196,13 +198,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "825045ca9fa70631",
+  "active": "abe6d3d25bc95629",
   "lastOpenFiles": [
-    "TRABALHOS CC/IHCC/Linux/2. Comandos.md",
+    "TRABALHOS CC/IHCC/Linux/1. Instalação.tex",
+    "Untitled.canvas",
     "TRABALHOS CC/IHCC/Linux/1. Instalação.md",
+    "TRABALHOS CC/IHCC/Linux/2. Comandos.md",
+    "Excalidraw/Drawing 2025-07-04 17.27.25.excalidraw.svg",
+    "Excalidraw/Drawing 2025-07-04 17.27.25.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-04 16.51.41.excalidraw.md",
+    "Pasted image 20250704173029.png",
+    "Pasted image 20250704165836.png",
+    "Excalidraw",
+    "TRABALHOS CC/IHCC/Introdução.md",
     "HOME.md",
     "TRABALHOS CC",
     "PROGRAMAÇÃO",
@@ -228,10 +240,6 @@
     "MATEMÁTICA/Funções.md",
     "MATEMÁTICA/Análise Combinatória.md",
     "MATEMÁTICA/Conjuntos.md",
-    "ARQUITETURA/Diagramas.md",
-    "ARQUITETURA/Sinais.md",
-    "ARQUITETURA/Operações binárias.md",
-    "ARQUITETURA/Representação binária.md",
     "TRABALHOS CC/IHCC/Linux/img/33-system.png",
     "TRABALHOS CC/IHCC/Linux/img/32-system.png",
     "TRABALHOS CC/IHCC/Linux/img/31-system.png",
@@ -239,13 +247,9 @@
     "TRABALHOS CC/IHCC/Linux/img/29-system.png",
     "TRABALHOS CC/IHCC/Linux/img/28-system.png",
     "TRABALHOS CC/IHCC/Linux/img/27-system.png",
-    "TRABALHOS CC/IHCC/Linux/img/26-system.png",
-    "TRABALHOS CC/IHCC/Linux/img/25-system.png",
-    "TRABALHOS CC/IHCC/Linux/img/24-system.png",
     "TRABALHOS CC/IHCC/Linux/img",
     "TRABALHOS CC/IHCC/Windows",
     "TRABALHOS CC/IHCC/Linux",
-    "Untitled.canvas",
     "TRABALHOS CC/IHCC"
   ]
 }
